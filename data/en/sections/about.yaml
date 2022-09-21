@@ -71,22 +71,22 @@ badges:
 - type: certification
   name: Sophos Certified Architect and Engineer
   url: "https://sophos.netexam.com/certs/11017/ED137489F1FF4266931A2762CEBF68EE46604.pdf"
-  badge: "https://bagusdewa.com/sophos.png"
+  badge: "https://dewa.bagusdewa.com/sophos.png"
   
 - type: certification
   name: Fortinet NSE Certification
   url: "https://drive.google.com/file/d/15J-f8ZfFsPlK4ojR_0CHUdbAOqTIRu1l/view?usp=sharing"
-  badge: "https://bagusdewa.com/NSE.jpg"
+  badge: "https://dewa.bagusdewa.com/NSE.jpg"
 
 - type: certification
   name: Ethical Hacking Essentials
   url: "https://drive.google.com/file/d/1XhY6O52cM20-_bunhjkLQ-QZLBWLZnWv/view?usp=sharing"
-  badge: "https://bagusdewa.com/ehe.png"
+  badge: "https://dewa.bagusdewa.com/ehe.png"
   
 - type: certification
   name: Jr Penetration Tester
   url: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4FF3EZHDXI.png"
-  badge: "https://bagusdewa.com/thm.png"
+  badge: "https://dewa.bagusdewa.com/thm.png"
   
 #- type: certification
   #name: Mr Robot CTF Challange

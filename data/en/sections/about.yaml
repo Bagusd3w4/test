@@ -8,45 +8,45 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior IT Infrastructure And Security Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: PT Intersoft Integrasi Infotama (i3).
+  url: "https://i3.co.id"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate Cybersecurity engineer with 4 years of working experience. As a enginner and consultant  i have many experience helping client on assessment, proof of concept and implementation also manage services for their infrastructure and security environment.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "bagus.dewanto@bagusdewa.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Bagusd3w4"
 
 - name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/bagusdewa_it/"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/bagus-dewanto"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/mrdewa12"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://facebook.com/dewa.takeo"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -59,34 +59,53 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Certified AWS Cloud Foundations
+  url: "https://www.credly.com/badges/edc650aa-0e3e-4dd7-93bd-6cc4ea7ea9ed/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: AWS Accreditation Technical
+  url: "https://www.credly.com/badges/57f37512-4129-4400-b2eb-51c179ab05ad/public_url"
+  badge: "https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Sophos Certified Architect and Engineer
+  url: "https://sophos.netexam.com/certs/11017/ED137489F1FF4266931A2762CEBF68EE46604.pdf"
+  badge: "https://bagusdewa.com/sophos.png"
+  
+- type: certification
+  name: Fortinet NSE Certification
+  url: "https://drive.google.com/file/d/15J-f8ZfFsPlK4ojR_0CHUdbAOqTIRu1l/view?usp=sharing"
+  badge: "https://bagusdewa.com/NSE.jpg"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+- type: certification
+  name: Ethical Hacking Essentials
+  url: "https://drive.google.com/file/d/1XhY6O52cM20-_bunhjkLQ-QZLBWLZnWv/view?usp=sharing"
+  badge: "https://bagusdewa.com/ehe.png"
+  
+- type: certification
+  name: Jr Penetration Tester
+  url: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4FF3EZHDXI.png"
+  badge: "https://bagusdewa.com/thm.png"
+  
+#- type: certification
+  #name: Mr Robot CTF Challange
+  #url: "https://tryhackme.com/dewa20/badges/mr-robot"
+  #badge: "https://bagusdewa.com/mrrobot.v1.png"
+#- type: soft-skill-indicator
+  #name: Leadership
+  #percentage: 85
+  #color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+#- type: soft-skill-indicator
+  #name: Team Work
+  #percentage: 90
+  #color: yellow
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+#- type: soft-skill-indicator
+  #name: Hard Working
+  #percentage: 85
+  #color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

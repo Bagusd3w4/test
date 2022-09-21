@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://Bagusd3w4.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Bagus Dewanto"
 theme: "toha"
 
 # Manage languages
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Bagusd3w4/test
   # Default branch of your Git repo
   gitBranch: main
 
@@ -125,10 +125,10 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       # Google Analytics
-      google:
-        id: G-H4LBG7NDFZ
+      #google:
+       # id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
@@ -150,7 +150,7 @@ params:
     #     backgroundColor: '#248aaa'
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # Show tags under the post title
   enableTags: true
@@ -186,7 +186,7 @@ params:
     newsletter:
       enable: true
       provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+      mailchimpURL: https://us9.list-manage.com/contact-form?u=b5da47d9c1b2eeb8bb3d1bbd1&form_id=269af50196e107764762a3af539189c3
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:

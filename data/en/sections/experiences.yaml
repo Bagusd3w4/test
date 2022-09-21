@@ -11,54 +11,56 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: PT Intersoft Integrasi Infotama (i3).
+    url: "https://i3.co.id"
+    location: DKI Jakarta
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: PT Intersoft Integrasi Infotama (i3) is a company engaged in Information technology consultant which provides consultancy solutions to improve client performance and give real business value, i3 engage partnership with many proof Information Technology vendor leading in Gartner Magic Quadrant. i3 committed to provide innovative solutions, and leading edge solutions in Information Technology. With a deep knowledge and experiences in Information Technology, We will help you to give the best solutions to support your business.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior IT Infrastructure & Security Consultant (Engineer)
+    start: Aug 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Conducting an assessment of IT infrastructure and security and Design Network Infrastructure blueprint.
+    - Conducting PoC (Proof of Concept) on IT Infrastructure and Security Solutions.
+    - Implementing and Troubleshooting IT Solutions to Clients also manage services.
+    - Lead on IT Security Engineer
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  #- designation: Junior Software Engineer
+   # start: Nov 2017
+    #end: Oct 2019
+    #responsibilities:
+    #- Implement and test xyz feature for abc tool.
+    #- Support client for abc tool.
+    #- Learn k,d,w technology for xyz.
+
+#- company:
+    #name: PreExample Co.
+    #url: "https://www.example.com"
+    #location: Nowhere
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  #positions:
+  #- designation: Software Engineer
+   # start: March 2016
+    #end: May 2017
+    #responsibilities:
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: PT Lintas Data Prima.
+    url: "https://www.ldp.net.id"
+    location: Yogyakarta
+    overview: PT Lintas Data Prima is a Internet Provider Services.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Network Operation Center (NOC)
+    start: Feb 2017
+    end: Apr 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    
+    - Monitor network, server, email, and check for problems if there is an alarm or certain conditions that require special attention to avoid impact on network performance.
+    - Checking and onsite to the ISP network device if there are network problems.
+    - Serve customers when there are complaints on ISP services and analyze so that customer problems are fixed.

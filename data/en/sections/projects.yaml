@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Projects & Portofolio
   id: projects
   enable: true
   weight: 5
@@ -14,51 +14,218 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
+#- name: Academic
+  #filter: "academic"
 - name: Hobby
   filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: PT. Asuransi Tugu Pratama Indonesia Tbk
+  logo: /images/sections/projects/tugu.png
+  role: Contributor (Engineer)
+  timeline: "Nov 20121 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://tugu.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Assessment and Implementation Manage Security Infrastructure for PT. Asuransi Tugu Pratama Indonesia Tbk.
+  tags: ["Infrastructure", "Security", "Ransomware", "professional"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
+- name: PT. Asuransi Wahana Tata (Aswata)
+  logo: /images/sections/projects/aswata.png
+  role: Contributor (Engineer)
   timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  #repo: https://aswata.co.id
+  url: "https://aswata.co.id/"
+  summary: Implementation and Manage Email Security Gateway, WAF with Sophos UTM 9 and 38 Branch SDWAN using Sophos XG Firewall and Build hybrid DC on AWS and On premise.
+  tags: ["Infrastructure", "Security", "SD-WAN", "Cloud","Spam", "professional"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+#- name: A sample academic paper
+  #role: Team Lead
+  #timeline: "Jan 2017 - Nov 2017"
+  #url: "https://www.example.com"
+  #summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  #tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: PT.Bursa Efek Indonesia (IDX)
+  logo: /images/sections/projects/bei.png
+  role: Contributor (Engineer)
+  timeline: "Mar 2020 - Present"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://www.idx.co.id/"
+  summary: Implementation and Manage Security Infrastructure Development for PT.Bursa Efek Indonesia (IDX).
+  tags: ["Infrastructure", "Security", "Ransomware", "professional"]
+  
+- name: PT. Bursa Berjangka Indonesia (JFX)
+  logo: /images/sections/projects/jfx.png
+  role: Contributor (Engineer)
+  timeline: "Dec 2019 - Present"
+  url: "https://www.jfx.co.id/"
+  summary: Implementation and Manage Email Security and Security Infrastructure DC, HO and DRC for PT. Bursa Berjangka Indonesia (JFX).
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name: PT. Asuransi Etiqa Indonesia (EII)
+  logo: /images/sections/projects/etiqa.png
+  role: Contributor (Engineer)
+  timeline: "Sep 2019 - Present"
+  url: "https://etiqa.co.id/"
+  summary: Implementation and Manage Security Infrastructure and build DC DRC PT. Asuransi Etiqa Indonesia.
+  tags: ["Infrastructure", "Security", "Spam", "DC/DRC", "professional"]  
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
+- name: PT. Bank Mayora
+  logo: /images/sections/projects/mayora.png
+  role: Contributor (Engineer)
+  timeline: "Mar 2020 - Present"
+  url: "https://www.bankmayora.com/"
+  summary: Implementation and Manage Email Security Gateway for PT. Bank Mayora.
+  tags: ["Security", "Spam", "professional"]
+
+- name: PT. Otsuka Indonesia
+  logo: /images/sections/projects/otsuka.jpg
+  role: Contributor (Engineer)
+  timeline: "Feb 2020 - Present"
+  url: "https://www.otsuka.co.id/"
+  summary: Implementation and Manage Email Security and SDWAN for PT. Otsuka Indonesia.
+  tags: ["Infrastructure", "Security", "Spam", "SD-WAN", "professional"]
+
+- name: PT. Metra Digital Media (MD Media) by Telkom
+  logo: /images/sections/projects/mdm.png
+  role: Contributor (Engineer)
+  timeline: "Mar 2020 - Present"
+  url: "https://mdm.co.id/"
+  summary: Implementation and Manage Security Infrastructure for PT. Metra Digital Media (MD Media) by Telkom.
+  tags: ["Infrastructure", "Security", "professional"]
+  
+- name: PT. Infomedia Solusi Humanika (Telkom Group)
+  logo: /images/sections/projects/ish.png
+  role: Contributor (Engineer)
+  timeline: "Jul 2019 - Present"
+  url: "https://ish.co.id/"
+  summary: Implementation and Manage Email Security Gateway and Security Infrastructure PT. Infomedia Solusi Humanika.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]       
+  
+- name: PT. Dipo Star Finance
+  logo: /images/sections/projects/dsf.png
+  role: Contributor (Engineer)
+  timeline: "Feb 2019 - Present"
+  url: "https://www.dipostar.com/"
+  summary: Implementation and Manage 20 branch with SDWAN for PT. Dipo Star Finance.
+  tags: ["Infrastructure", "Security", "SD-WAN", "professional"]
+  
+- name: PT. Kliring Berjangka Indonesia
+  logo: /images/sections/projects/kbi.png
+  role: Contributor (Engineer)
+  timeline: "Okt 2019 - Present"
+  url: "https://ptkbi.com/"
+  summary: Implementation and Manage Email Security Gateway PT. Kliring Berjangka Indonesia using Sophos UTM 9.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name: PT. Asuransi Jasindo Syariah
+  logo: /images/sections/projects/ajs.png
+  role: Contributor (Engineer)
+  timeline: "Feb 2020 - Present"
+  url: "https://jasindosyariah.co.id/"
+  summary: Implementation and Manage Email Security Gateway and Security Infrastructure PT. Asuransi Jasindo Syariah.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]          
+
+- name:  PT. Jakaranatama(Gaga Food)
+  logo: /images/sections/projects/jaka.png
+  role: Contributor (Engineer)
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  url: "https://gagafood.co.id/"
+  summary: Implementation and Manage Email Security Gateway and Sophos XG Firewall PT. Jakaranatama(Gaga Food).
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+
+- name:  PT. Nissin Foods Indonesia
+  logo: /images/sections/projects/nissin.jpg
+  role: Contributor (Engineer)
+  timeline: "Okt 2019 - Present"
+  url: "https://nissinfoods.co.id/"
+  summary: Implementation Email Security and Security Infrastructure for PT. Nissin Foods Indonesia.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name:  Yayasan Kesejahteraan Karyawan Bank Indonesia (YKKBI)
+  logo: /images/sections/projects/ykkbi.jpg
+  role: Contributor (Engineer)
+  timeline: "Okt 2019 - Present"
+  url: "https://ykkbi.or.id/"
+  summary: Implementation and Manage Security Infrastructure for Yayasan Kesejahteraan Karyawan Bank Indonesia (YKKBI).
+  tags: ["Infrastructure", "Security", "professional"]
+
+- name:  Dompet Dhuafa
+  logo: /images/sections/projects/dd.png
+  role: Contributor (Engineer)
+  timeline: "Sept 2019 - Present"
+  url: "https://dompedhuafa.org/"
+  summary: Implementation and Manage Security Infrastructure at Dompet Dhuafa.
+  tags: ["Infrastructure", "Security", "professional"]
+  
+- name:  PT. Indogravure
+  logo: /images/sections/projects/igv.png
+  role: Contributor (Engineer)
+  timeline: "Agust 2020 - Present"
+  url: "https://indogravure.co.id/"
+  summary: Implementation Security Infrastructure for PT. Indogravure.
+  tags: ["Infrastructure", "Security", "professional"]
+
+- name:  PT. Avesta Continental Pack
+  logo: /images/sections/projects/avesta.png
+  role: Contributor (Engineer)
+  timeline: "Nov 2020 - Present"
+  url: "https://avesta.co.id/"
+  summary: Implementation and Manage Security Infrastructure for PT. Avesta Continental Pack.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name:  PT. HK Realtindo
+  logo: /images/sections/projects/hkr.png
+  role: Contributor (Engineer)
+  timeline: "Nov 2019 - Present"
+  url: "https://hkrealtindo.com/"
+  summary: Implementation and Manage Email Security Gateway and Security Infrastructure PT. HK Realtindo.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+
+- name:  PT. Fresenius Kabi Indonesia
+  logo: /images/sections/projects/fki.jpg
+  role: Contributor (Engineer)
+  timeline: "Okt 2019 - Present"
+  url: "https://fresenius-kabi.co.id/"
+  summary: Implementation and Manage Security Infrastructure PT. Fresenius Kabi Indonesia.
+  tags: ["Infrastructure", "Security", "professional"]
+
+- name:  PT. Maxx Coffee Prima
+  logo: /images/sections/projects/maxx.jpeg
+  role: Contributor (Engineer)
+  timeline: "Mei 2019 - Present"
+  url: "https://maxx-coffee.co.id/"
+  summary: Implementation and Manage Security PT. Maxx Coffee Prima.
+  tags: ["Infrastructure", "Security", "professional"]
+
+- name:  ESQ group
+  logo: /images/sections/projects/esq.jpeg
+  role: Contributor (Engineer)
+  timeline: "Jul 2022 - Sept 2022"
+  url: "https://esq165.co.id/"
+  summary: Assessment IT Infrastructure & Security for ESQ Group.
+  tags: ["Infrastructure", "Security","Assessment", "professional"]
+  
+- name:  PT Gistex Textile Division
+  logo: /images/sections/projects/gistex.jpg
+  role: Contributor (Engineer)
+  timeline: "Des 2021 - Jan 2022"
+  url: "https://gistex.co.id/"
+  summary: Assessment IT Infrastructure for PT Gistex Textile Division.
+  tags: ["Infrastructure", "Security", "professional"]
+  
+- name:  PT. Pacific Life Insurance
+  logo: /images/sections/projects/pc.png
+  role: Contributor (Engineer)
+  timeline: "Jun 2019 - Present"
+  url: "https://pacific-life.co.id/"
+  summary: Implementation and Manage Email Security Gateway for PT. Pacific Life Insurance
+  tags: ["Infrastructure", "Security", "Spam", "professional"]                                     
+#- name: Toha
+  #logo: /images/sections/projects/toha.png
+  #role: Owner
+  #timeline: "Jun 2019 - Present"
+  #repo: https://github.com/hossainemruz/toha
+  #summary: A Hugo theme for personal portfolio.
+  #tags: ["hobby","hugo","theme","professional"]

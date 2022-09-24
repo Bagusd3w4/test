@@ -220,8 +220,32 @@ projects:
   role: Contributor (Engineer)
   timeline: "Jun 2019 - Present"
   url: "https://pacific-life.co.id/"
-  summary: Implementation and Manage Email Security Gateway for PT. Pacific Life Insurance
-  tags: ["Infrastructure", "Security", "Spam", "professional"]                                     
+  summary: Implementation and Manage Email Security Gateway for PT. Pacific Life Insurance.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name:  PT. Asuransi Jagadiri
+  logo: /images/sections/projects/jagadiri.jpg
+  role: Contributor (Engineer)
+  timeline: "Nov 2019 - Des 2021"
+  url: "https://jagadiri.co.id/"
+  summary: Implementation and Manage Email Security Gateway for PT. Asuransi Jagadiri.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]
+  
+- name:  Charoen Pokphand Indonesia
+  logo: /images/sections/projects/pok.png
+  role: Contributor (Engineer)
+  timeline: "Jan 2020 - Jan 2020"
+  url: "https://cp.co.id/"
+  summary: Deploy NAS Qnap dan integrasikan dengan Vmware untuk Charoen Pokphand Indonesia.
+  tags: ["Infrastructure", "professional"]
+  
+- name:  Nobu National Bank
+  logo: /images/sections/projects/nobu.png
+  role: Contributor (Engineer)
+  timeline: "Mei 2019 - Present"
+  url: "https://nobubank.com/"
+  summary: Implementation and Manage Email Security Gateway and Disaster Recovery Nobu National Bank.
+  tags: ["Infrastructure", "Security", "Spam", "professional"]                                                
 #- name: Toha
   #logo: /images/sections/projects/toha.png
   #role: Owner

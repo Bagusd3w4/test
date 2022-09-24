@@ -40,10 +40,10 @@ skills:
   summary: "Experienced in implementation and creating network infrastructure blueprint, network security, build DC & DRC, SD-WAN Connectivity."
   #url: "https://git-scm.com/"
 
+- name: Web Application Firewall (WAF)
+  logo: /images/sections/skills/WAF.png
+  summary: "Experienced in implementation and troubleshooting Web Application Firewall (WAF)."
+
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Using as the main operating system. Capable of Linux Administration system."  

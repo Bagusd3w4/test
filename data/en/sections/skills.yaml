@@ -27,7 +27,7 @@ skills:
 
 - name: Offensive Security
   logo: /images/sections/skills/oscp.png
-  summary: "Experience in Vulnerability Assessment and penetration testing on Web application and Infrastructure penetration testing, Experience in different web application security automation testing such as Acunetix, Nessus, Metasploit, Burp suite, Ridge and manual testing."
+  summary: "Experience in Vulnerability Assessment and penetration testing on Web application and Infrastructure penetration testing, Experience in different web application security automation testing such as Acunetix, Nessus, Metasploit, Burp suite and manual testing."
   #url: "https://www.docker.com/"
 
 - name: Email Security

@@ -1,0 +1,114 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior IT Infrastructure And Security Engineer
+# your company information
+company:
+  name: PT Intersoft Integrasi Infotama (i3).
+  url: "https://i3.co.id"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Saya seorang pecinta teknologi dan sudah bekerja pada bidang IT infrasktruktur dan cybersecurity selama 4 tahun Sebagai seorang Engineer dan konsultan saya memiliki banyak pengalaman membantu klien dalam POC dan implementasi serta menjaga dan mengelola IT infrastruktur dan Security klien'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bagus.dewanto@bagusdewa.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Bagusd3w4"
+
+- name: Stackoverflow
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/bagusdewa_it/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bagus-dewanto"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/mrdewa12"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://facebook.com/dewa.takeo"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified AWS Cloud Foundations
+  url: "https://www.credly.com/badges/edc650aa-0e3e-4dd7-93bd-6cc4ea7ea9ed/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"
+
+- type: certification
+  name: AWS Accreditation Technical
+  url: "https://www.credly.com/badges/57f37512-4129-4400-b2eb-51c179ab05ad/public_url"
+  badge: "https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"
+
+- type: certification
+  name: Sophos Certified Architect and Engineer
+  url: "https://sophos.netexam.com/certs/11017/ED137489F1FF4266931A2762CEBF68EE46604.pdf"
+  badge: "https://dewa.bagusdewa.com/sophos.png"
+  
+- type: certification
+  name: Fortinet NSE Certification
+  url: "https://drive.google.com/file/d/15J-f8ZfFsPlK4ojR_0CHUdbAOqTIRu1l/view?usp=sharing"
+  badge: "https://dewa.bagusdewa.com/NSE.jpg"
+
+- type: certification
+  name: Ethical Hacking Essentials
+  url: "https://drive.google.com/file/d/1XhY6O52cM20-_bunhjkLQ-QZLBWLZnWv/view?usp=sharing"
+  badge: "https://dewa.bagusdewa.com/ehe.png"
+  
+- type: certification
+  name: Jr Penetration Tester
+  url: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4FF3EZHDXI.png"
+  badge: "https://dewa.bagusdewa.com/thm.png"
+  
+#- type: certification
+  #name: Mr Robot CTF Challange
+  #url: "https://tryhackme.com/dewa20/badges/mr-robot"
+  #badge: "https://bagusdewa.com/mrrobot.v1.png"
+#- type: soft-skill-indicator
+  #name: Leadership
+  #percentage: 85
+  #color: blue
+
+#- type: soft-skill-indicator
+  #name: Team Work
+  #percentage: 90
+  #color: yellow
+
+#- type: soft-skill-indicator
+  #name: Hard Working
+  #percentage: 85
+  #color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

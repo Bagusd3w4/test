@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Sophos
+  logo: /images/sections/skills/sophos1.png
+  summary: "Capable of deploying, configuration, troubleshooting on Sophos product. Experienced implementation Sophos for Enterprise client."
+  url: "https://sophos.com/"
+
+- name: Fortinet
+  logo: /images/sections/skills/forti.png
+  summary: "Capable of deploying, configuration, troubleshooting on Fortinet product. Experienced implementation Fortinet for Enterprise client."
+  url: "https://www.fortinet.com/"
+
+- name: Cloud Security
+  logo: /images/sections/skills/cloud.png
+  summary: "Worked with most of the major clouds such as AWS and GCP, build hybrid data center on client."
+
+- name: Offensive Security
+  logo: /images/sections/skills/oscp.png
+  summary: "Experience in Vulnerability Assessment and penetration testing on Web application and Infrastructure penetration testing, Experience in different web application security automation testing such as Acunetix, Nessus, Metasploit, Burp suite, Ridge and manual testing."
+  #url: "https://www.docker.com/"
+
+- name: Email Security
+  logo: /images/sections/skills/email.png
+  summary: "Experience on implementation Email Security in enterprise client, good knowledge in email security such as SPF, DKIM, DMARC, Email Encryption."
+  #url: "https://prometheus.io/"
+
+- name: Network Infrastructure & Security
+  logo: /images/sections/skills/network.png
+  summary: "Experienced in implementation and creating network infrastructure blueprint, network security, build DC & DRC, SD-WAN Connectivity."
+  #url: "https://git-scm.com/"
+
+- name: Web Application Firewall (WAF)
+  logo: /images/sections/skills/WAF.png
+  summary: "Experienced in implementation and troubleshooting Web Application Firewall (WAF)."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of Linux Administration system."  

@@ -1,0 +1,83 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: PT Intersoft Integrasi Infotama (i3).
+    url: "https://i3.co.id"
+    location: DKI Jakarta
+    # company overview
+    overview: PT Intersoft Integrasi Infotama (i3) adalah perusahaan yang bergerak di bidang konsultan teknologi informasi yang memberikan solusi konsultasi untuk meningkatkan kinerja klien dan memberikan nilai bisnis yang nyata, i3 menjalin kemitraan dengan banyak vendor Teknologi Informasi bukti terkemuka di Gartner Magic Quadrant. i3 berkomitmen untuk memberikan solusi inovatif, dan solusi terdepan dalam Teknologi Informasi. Dengan pengetahuan dan pengalaman yang mendalam di bidang Teknologi Informasi, Kami akan membantu Anda memberikan solusi terbaik untuk mendukung bisnis Anda.
+  positions:
+  - designation: Senior IT Infrastructure & Security Consultant (Engineer)
+    start: Sep 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Melakukan penilaian infrastruktur dan keamanan TI dan cetak biru Desain Infrastruktur Jaringan.
+    - Melakukan PoC (Proof of Concept) pada Infrastruktur IT dan Solusi Keamanan.
+    - Menerapkan dan Memecahkan Masalah Solusi TI untuk Klien juga mengelola layanan.
+    - Memimpin tim IT Security Engineer
+#experiences:
+- company:
+    name: PT Intersoft Integrasi Infotama (i3).
+    url: "https://i3.co.id"
+    location: DKI Jakarta
+    # company overview
+    overview: PT Intersoft Integrasi Infotama (i3) adalah perusahaan yang bergerak di bidang konsultan teknologi informasi yang memberikan solusi konsultasi untuk meningkatkan kinerja klien dan memberikan nilai bisnis yang nyata, i3 menjalin kemitraan dengan banyak vendor Teknologi Informasi bukti terkemuka di Gartner Magic Quadrant. i3 berkomitmen untuk memberikan solusi inovatif, dan solusi terdepan dalam Teknologi Informasi. Dengan pengetahuan dan pengalaman yang mendalam di bidang Teknologi Informasi, Kami akan membantu Anda memberikan solusi terbaik untuk mendukung bisnis Anda.
+  positions:
+  - designation: IT System & Security Consultant (Engineer)
+    start: Aug 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Sep 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Melakukan penilaian infrastruktur dan keamanan TI dan cetak biru Desain Infrastruktur Jaringan.
+    - Melakukan PoC (Proof of Concept) pada Infrastruktur IT dan Solusi Keamanan.
+    - Menerapkan dan Memecahkan Masalah Solusi TI untuk Klien juga mengelola layanan.
+    #- Lead on IT Security Engineer
+  #- designation: Junior Software Engineer
+   # start: Nov 2017
+    #end: Oct 2019
+    #responsibilities:
+    #- Implement and test xyz feature for abc tool.
+    #- Support client for abc tool.
+    #- Learn k,d,w technology for xyz.
+
+#- company:
+    #name: PreExample Co.
+    #url: "https://www.example.com"
+    #location: Nowhere
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  #positions:
+  #- designation: Software Engineer
+   # start: March 2016
+    #end: May 2017
+    #responsibilities:
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
+
+- company:
+    name: PT Lintas Data Prima.
+    url: "https://www.ldp.net.id"
+    location: Yogyakarta
+    overview: PT Lintas Data Prima adalah perusahaan ISP.
+  positions:
+  - designation: Network Operation Center (NOC)
+    start: Feb 2017
+    end: Apr 2017
+    responsibilities:
+    
+    - Memantau jaringan, server, email, dan memeriksa masalah jika ada alarm atau kondisi tertentu yang memerlukan perhatian khusus untuk menghindari dampak pada kinerja jaringan.
+    - Pengecekan dan penukaran ke perangkat jaringan ISP jika ada masalah jaringan.
+    - Melayani pelanggan bila ada keluhan pada layanan ISP dan menganalisa agar masalah pelanggan teratasi.

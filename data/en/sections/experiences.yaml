@@ -18,7 +18,7 @@ experiences:
     overview: PT Intersoft Integrasi Infotama (i3) is a company engaged in Information technology consultant which provides consultancy solutions to improve client performance and give real business value, i3 engage partnership with many proof Information Technology vendor leading in Gartner Magic Quadrant. i3 committed to provide innovative solutions, and leading edge solutions in Information Technology. With a deep knowledge and experiences in Information Technology, We will help you to give the best solutions to support your business.
   positions:
   - designation: Senior IT Infrastructure & Security Consultant (Engineer)
-    start: Aug 2018
+    start: Sep 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -28,6 +28,24 @@ experiences:
     - Implementing and Troubleshooting IT Solutions to Clients also manage services.
     - Lead on IT Security Engineer
 
+#experiences:
+- company:
+    name: PT Intersoft Integrasi Infotama (i3).
+    url: "https://i3.co.id"
+    location: DKI Jakarta
+    # company overview
+    overview: PT Intersoft Integrasi Infotama (i3) is a company engaged in Information technology consultant which provides consultancy solutions to improve client performance and give real business value, i3 engage partnership with many proof Information Technology vendor leading in Gartner Magic Quadrant. i3 committed to provide innovative solutions, and leading edge solutions in Information Technology. With a deep knowledge and experiences in Information Technology, We will help you to give the best solutions to support your business.
+  positions:
+  - designation: IT System & Security Consultant (Engineer)
+    start: Aug 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Sep 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Conducting an assessment of IT infrastructure and security and Design Network Infrastructure blueprint.
+    - Conducting PoC (Proof of Concept) on IT Infrastructure and Security Solutions.
+    - Implementing and Troubleshooting IT Solutions to Clients also manage services.
+    #- Lead on IT Security Engineer
   #- designation: Junior Software Engineer
    # start: Nov 2017
     #end: Oct 2019
